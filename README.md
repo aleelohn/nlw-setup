@@ -17,7 +17,7 @@ As tecnologias utilizadas nesse projeto foram as seguintes:
 
 O "Habits" é usado como uma agenda de hábitos, ou seja, você marca os dias que você praticou aquele determinado hábito.
 
-- [Projeto Online] (https://aleelohn.github.io/nlw-setup)
+- [Projeto Online](https://aleelohn.github.io/nlw-setup)
 
 ## 🔖 Layout
 
